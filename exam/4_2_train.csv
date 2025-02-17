@@ -1,0 +1,355 @@
+ID,Attrition_Flag,Gender,Customer_Age,Income_Category,Card_Category,Credit_Limit,Total_Revolving_Bal,Avg_Utilization_Ratio,Avg_Open_To_Buy,Months_Inactive_12_mon
+9251,Existing Customer,M,35,$40K - $60K,Gold,22725.0,808,0.036,21917.0,1
+8091,Attrited Customer,F,49,$40K - $60K,Blue,2655.0,2283,0.86,372.0,2
+8762,Existing Customer,M,41,$80K - $120K,Blue,12578.0,2517,0.2,10061.0,3
+1170,Existing Customer,M,35,$80K - $120K,Silver,34516.0,1872,0.054,32644.0,3
+7182,Existing Customer,F,44,Unknown,Blue,2717.0,1720,0.633,997.0,3
+4464,Existing Customer,F,54,Less than $40K,Blue,3062.0,2039,0.666,1023.0,1
+9086,Existing Customer,F,40,$40K - $60K,Silver,19000.0,1568,0.083,17432.0,2
+2196,Existing Customer,M,50,$120K +,Blue,34516.0,0,0.0,34516.0,1
+9536,Existing Customer,M,47,$40K - $60K,Blue,3471.0,0,0.0,3471.0,2
+594,Attrited Customer,F,44,Less than $40K,Blue,7222.0,0,0.0,7222.0,1
+9055,Existing Customer,M,38,$60K - $80K,Gold,34516.0,1494,0.043,33022.0,2
+5047,Existing Customer,F,43,Less than $40K,Blue,3186.0,2517,0.79,669.0,2
+3121,Existing Customer,F,40,Less than $40K,Blue,1438.3,915,0.636,523.3,3
+8964,Existing Customer,M,61,Unknown,Blue,9070.0,2097,0.231,6973.0,1
+6757,Existing Customer,F,43,Less than $40K,Blue,1884.0,1216,0.645,668.0,4
+4315,Existing Customer,M,42,$40K - $60K,Blue,2502.0,1488,0.595,1014.0,3
+8620,Existing Customer,M,40,$60K - $80K,Blue,13452.0,2517,0.187,10935.0,2
+4966,Attrited Customer,M,42,$60K - $80K,Blue,15699.0,0,0.0,15699.0,3
+2527,Existing Customer,F,33,$40K - $60K,Blue,8232.0,2259,0.274,5973.0,1
+8170,Existing Customer,F,33,$40K - $60K,Blue,1438.3,0,0.0,1438.3,3
+6287,Existing Customer,F,44,Less than $40K,Blue,3226.0,2517,0.78,709.0,1
+4594,Existing Customer,M,44,$60K - $80K,Blue,5950.0,1117,0.188,4833.0,6
+5552,Existing Customer,F,46,Less than $40K,Blue,1787.0,1324,0.741,463.0,3
+1756,Existing Customer,M,33,$80K - $120K,Blue,13206.0,925,0.07,12281.0,3
+5857,Attrited Customer,M,50,$120K +,Blue,1656.0,0,0.0,1656.0,3
+3645,Existing Customer,M,48,$40K - $60K,Blue,9617.0,2035,0.212,7582.0,3
+1488,Existing Customer,F,26,$40K - $60K,Blue,5655.0,0,0.0,5655.0,1
+8678,Existing Customer,F,38,Less than $40K,Gold,15987.0,1766,0.11,14221.0,3
+6436,Existing Customer,F,40,Less than $40K,Blue,1538.0,0,0.0,1538.0,2
+254,Existing Customer,M,70,Less than $40K,Blue,3252.0,1495,0.46,1757.0,2
+2730,Existing Customer,F,49,Less than $40K,Blue,3397.0,1962,0.578,1435.0,3
+6907,Attrited Customer,M,62,$60K - $80K,Silver,28229.0,287,0.01,27942.0,5
+3178,Existing Customer,M,38,$80K - $120K,Blue,15410.0,0,0.0,15410.0,1
+5321,Existing Customer,M,40,$60K - $80K,Blue,9026.0,2312,0.256,6714.0,2
+9187,Attrited Customer,M,61,$60K - $80K,Blue,6157.0,581,0.094,5576.0,1
+2864,Existing Customer,M,41,$60K - $80K,Blue,2888.0,1676,0.58,1212.0,1
+8723,Existing Customer,F,52,Less than $40K,Blue,2743.0,1705,0.622,1038.0,1
+8098,Existing Customer,M,53,$60K - $80K,Blue,1438.3,0,0.0,1438.3,5
+9924,Existing Customer,F,49,Less than $40K,Blue,9431.0,1785,0.189,7646.0,3
+5948,Existing Customer,M,46,$40K - $60K,Blue,2375.0,1196,0.504,1179.0,2
+9480,Existing Customer,F,35,Unknown,Blue,19033.0,1555,0.082,17478.0,2
+1293,Existing Customer,M,57,$80K - $120K,Blue,25058.0,1710,0.068,23348.0,2
+10053,Existing Customer,F,46,$40K - $60K,Blue,7020.0,1784,0.254,5236.0,2
+9562,Existing Customer,M,46,$60K - $80K,Blue,13056.0,1890,0.145,11166.0,3
+10074,Existing Customer,M,50,$60K - $80K,Blue,17655.0,1720,0.097,15935.0,3
+2210,Existing Customer,F,33,Unknown,Blue,5297.0,0,0.0,5297.0,3
+1470,Existing Customer,M,48,$40K - $60K,Silver,17657.0,2018,0.114,15639.0,0
+2858,Existing Customer,F,31,Unknown,Blue,3647.0,1480,0.406,2167.0,6
+9650,Existing Customer,F,54,Less than $40K,Blue,3784.0,2517,0.665,1267.0,3
+8230,Existing Customer,M,47,$60K - $80K,Blue,1983.0,989,0.499,994.0,1
+964,Existing Customer,M,34,$40K - $60K,Blue,3870.0,1394,0.36,2476.0,3
+2524,Existing Customer,F,35,Less than $40K,Blue,2956.0,1823,0.617,1133.0,1
+1892,Existing Customer,F,26,Less than $40K,Blue,1438.3,737,0.512,701.3,2
+4301,Existing Customer,F,43,Unknown,Blue,9051.0,1557,0.172,7494.0,6
+7509,Existing Customer,M,44,$40K - $60K,Blue,2197.0,0,0.0,2197.0,1
+1410,Existing Customer,F,39,Unknown,Blue,3209.0,2517,0.784,692.0,1
+3332,Attrited Customer,F,63,Less than $40K,Blue,1931.0,1531,0.793,400.0,6
+8875,Existing Customer,F,39,Less than $40K,Blue,1621.0,0,0.0,1621.0,1
+9975,Attrited Customer,M,38,$80K - $120K,Blue,5768.0,0,0.0,5768.0,2
+9614,Existing Customer,F,56,Less than $40K,Blue,5158.0,1148,0.223,4010.0,1
+6462,Existing Customer,M,41,$60K - $80K,Blue,9577.0,632,0.066,8945.0,1
+2675,Existing Customer,F,32,Less than $40K,Blue,2428.0,1027,0.423,1401.0,3
+8608,Existing Customer,M,56,$40K - $60K,Blue,14344.0,2014,0.14,12330.0,2
+6547,Attrited Customer,M,50,$60K - $80K,Blue,3143.0,0,0.0,3143.0,3
+2820,Existing Customer,F,39,$40K - $60K,Blue,5858.0,0,0.0,5858.0,2
+6259,Existing Customer,F,56,Less than $40K,Blue,1438.3,787,0.547,651.3,3
+397,Existing Customer,M,43,$80K - $120K,Blue,24850.0,1662,0.067,23188.0,3
+2900,Existing Customer,M,41,$80K - $120K,Blue,19110.0,2449,0.128,16661.0,3
+3423,Existing Customer,F,49,Less than $40K,Blue,1976.0,1694,0.857,282.0,1
+1122,Existing Customer,M,47,$60K - $80K,Blue,5062.0,1996,0.394,3066.0,3
+5324,Attrited Customer,F,50,Unknown,Blue,1970.0,1477,0.75,493.0,4
+4427,Existing Customer,F,39,$40K - $60K,Blue,10264.0,803,0.078,9461.0,2
+8660,Existing Customer,M,44,$80K - $120K,Blue,14388.0,2517,0.175,11871.0,3
+9769,Attrited Customer,M,41,Less than $40K,Blue,7769.0,0,0.0,7769.0,3
+6498,Existing Customer,F,43,Less than $40K,Blue,2570.0,2107,0.82,463.0,3
+8727,Existing Customer,F,52,Less than $40K,Blue,5207.0,1121,0.215,4086.0,2
+4077,Existing Customer,F,49,Less than $40K,Blue,2473.0,1263,0.511,1210.0,1
+9849,Existing Customer,M,36,$120K +,Blue,11791.0,1168,0.099,10623.0,1
+234,Existing Customer,M,43,$60K - $80K,Blue,2733.0,1819,0.666,914.0,3
+5727,Attrited Customer,F,43,Unknown,Blue,21961.0,0,0.0,21961.0,2
+307,Existing Customer,M,47,$80K - $120K,Blue,21637.0,2030,0.094,19607.0,3
+2568,Existing Customer,F,26,Unknown,Blue,12007.0,956,0.08,11051.0,2
+9949,Attrited Customer,M,54,$120K +,Blue,7684.0,0,0.0,7684.0,3
+4274,Attrited Customer,M,41,$80K - $120K,Blue,20543.0,0,0.0,20543.0,3
+1011,Existing Customer,M,31,Less than $40K,Blue,1438.3,0,0.0,1438.3,2
+8761,Existing Customer,M,49,$120K +,Blue,14646.0,1448,0.099,13198.0,4
+7547,Existing Customer,F,40,Unknown,Blue,6384.0,2034,0.319,4350.0,3
+3177,Existing Customer,M,41,$60K - $80K,Blue,4573.0,0,0.0,4573.0,2
+5521,Existing Customer,F,48,$40K - $60K,Blue,1438.3,0,0.0,1438.3,3
+3660,Attrited Customer,F,53,Less than $40K,Blue,3099.0,0,0.0,3099.0,3
+9707,Existing Customer,F,58,Less than $40K,Blue,5023.0,1857,0.37,3166.0,2
+218,Existing Customer,M,41,$80K - $120K,Blue,34516.0,1202,0.035,33314.0,1
+7954,Existing Customer,F,43,$40K - $60K,Blue,4287.0,0,0.0,4287.0,3
+6301,Attrited Customer,F,61,Less than $40K,Blue,1760.0,0,0.0,1760.0,3
+7136,Existing Customer,F,53,Unknown,Blue,2592.0,1364,0.526,1228.0,4
+9427,Existing Customer,F,45,$40K - $60K,Gold,23051.0,1836,0.08,21215.0,2
+8782,Existing Customer,F,51,Unknown,Gold,34516.0,1873,0.054,32643.0,1
+4422,Existing Customer,M,42,Less than $40K,Blue,7802.0,1885,0.242,5917.0,2
+1073,Existing Customer,F,50,Less than $40K,Blue,3368.0,844,0.251,2524.0,1
+7120,Existing Customer,F,40,$40K - $60K,Blue,2822.0,2182,0.773,640.0,2
+5122,Existing Customer,F,51,$40K - $60K,Blue,1438.3,869,0.604,569.3,1
+4843,Existing Customer,F,49,Less than $40K,Blue,1757.0,1307,0.744,450.0,3
+1186,Existing Customer,F,64,$40K - $60K,Blue,1438.3,0,0.0,1438.3,2
+7451,Existing Customer,F,44,Unknown,Blue,4703.0,1555,0.331,3148.0,2
+229,Existing Customer,M,51,$120K +,Blue,34516.0,1666,0.048,32850.0,3
+2305,Existing Customer,M,58,$120K +,Blue,17934.0,1578,0.088,16356.0,2
+736,Existing Customer,F,42,Unknown,Blue,17536.0,1525,0.087,16011.0,3
+6150,Existing Customer,F,27,Unknown,Blue,13439.0,2003,0.149,11436.0,1
+1571,Existing Customer,M,35,$60K - $80K,Blue,7766.0,1278,0.165,6488.0,3
+2652,Existing Customer,M,38,$60K - $80K,Silver,34516.0,1954,0.057,32562.0,3
+2407,Existing Customer,M,38,$80K - $120K,Blue,10386.0,1909,0.184,8477.0,2
+5638,Existing Customer,F,44,Less than $40K,Blue,3228.0,0,0.0,3228.0,3
+9352,Existing Customer,F,48,$40K - $60K,Blue,9215.0,639,0.069,8576.0,2
+1297,Existing Customer,F,39,Unknown,Blue,10723.0,1529,0.143,9194.0,2
+1924,Existing Customer,M,57,$60K - $80K,Blue,24589.0,1640,0.067,22949.0,2
+5290,Existing Customer,F,53,Less than $40K,Blue,2252.0,1811,0.804,441.0,1
+4567,Attrited Customer,F,51,Less than $40K,Blue,2016.0,395,0.196,1621.0,4
+6132,Existing Customer,M,40,$80K - $120K,Blue,3624.0,0,0.0,3624.0,3
+99,Attrited Customer,M,47,$80K - $120K,Blue,5449.0,1628,0.299,3821.0,3
+4522,Existing Customer,F,55,Less than $40K,Blue,2677.0,1555,0.581,1122.0,1
+995,Existing Customer,M,37,$120K +,Blue,15017.0,1733,0.115,13284.0,3
+5169,Existing Customer,F,34,Unknown,Blue,3095.0,2010,0.649,1085.0,3
+2028,Existing Customer,F,45,Less than $40K,Blue,2551.0,2253,0.883,298.0,4
+5227,Existing Customer,M,55,$120K +,Blue,3029.0,1505,0.497,1524.0,3
+1300,Existing Customer,F,37,Less than $40K,Blue,4138.0,0,0.0,4138.0,1
+9870,Existing Customer,M,44,$80K - $120K,Blue,3472.0,1687,0.486,1785.0,1
+8882,Attrited Customer,M,39,$40K - $60K,Silver,17894.0,304,0.017,17590.0,2
+2774,Existing Customer,F,36,Less than $40K,Blue,5257.0,1572,0.299,3685.0,3
+4977,Existing Customer,F,42,Less than $40K,Blue,2120.0,1527,0.72,593.0,2
+8695,Existing Customer,M,47,$80K - $120K,Blue,34516.0,1264,0.037,33252.0,2
+8599,Existing Customer,M,42,Less than $40K,Blue,6153.0,974,0.158,5179.0,2
+7040,Existing Customer,M,46,$120K +,Blue,2692.0,1631,0.606,1061.0,2
+9940,Existing Customer,M,39,$80K - $120K,Blue,26710.0,1681,0.063,25029.0,3
+4448,Existing Customer,F,38,Less than $40K,Blue,1438.3,0,0.0,1438.3,4
+830,Existing Customer,M,46,$80K - $120K,Blue,8475.0,1385,0.163,7090.0,2
+4145,Existing Customer,M,43,$60K - $80K,Silver,25824.0,1170,0.045,24654.0,3
+9370,Existing Customer,M,51,$120K +,Blue,34516.0,1068,0.031,33448.0,2
+5289,Existing Customer,F,53,Unknown,Blue,4500.0,0,0.0,4500.0,2
+2054,Existing Customer,F,53,$40K - $60K,Blue,1525.0,1411,0.925,114.0,4
+9397,Existing Customer,M,51,$120K +,Gold,34516.0,2417,0.07,32099.0,3
+3347,Existing Customer,F,49,$40K - $60K,Blue,3943.0,1135,0.288,2808.0,2
+6204,Attrited Customer,F,44,Less than $40K,Blue,3052.0,0,0.0,3052.0,3
+5044,Attrited Customer,F,33,$40K - $60K,Blue,1438.3,0,0.0,1438.3,2
+8898,Existing Customer,F,51,Unknown,Blue,15048.0,2517,0.167,12531.0,3
+1759,Existing Customer,M,59,Less than $40K,Blue,1570.0,1028,0.655,542.0,3
+7427,Existing Customer,F,63,Less than $40K,Blue,4847.0,1856,0.383,2991.0,1
+9592,Existing Customer,F,32,Unknown,Blue,4251.0,2295,0.54,1956.0,3
+7835,Attrited Customer,F,38,$40K - $60K,Blue,4047.0,0,0.0,4047.0,3
+1217,Existing Customer,M,50,$80K - $120K,Blue,4252.0,0,0.0,4252.0,4
+2095,Existing Customer,M,38,$60K - $80K,Blue,3657.0,1687,0.461,1970.0,2
+1114,Existing Customer,F,27,Less than $40K,Blue,1677.0,1598,0.953,79.0,1
+5513,Attrited Customer,F,52,Less than $40K,Blue,1842.0,625,0.339,1217.0,3
+9049,Existing Customer,F,44,Less than $40K,Blue,7742.0,1163,0.15,6579.0,3
+5947,Existing Customer,F,53,$40K - $60K,Blue,1536.0,728,0.474,808.0,2
+2438,Existing Customer,M,36,$40K - $60K,Blue,12714.0,976,0.077,11738.0,1
+3729,Existing Customer,M,57,$80K - $120K,Blue,7976.0,585,0.073,7391.0,1
+1912,Existing Customer,M,55,$60K - $80K,Blue,2145.0,1207,0.563,938.0,2
+1935,Existing Customer,M,44,$80K - $120K,Blue,19214.0,0,0.0,19214.0,4
+825,Existing Customer,M,37,$60K - $80K,Blue,7349.0,2517,0.342,4832.0,3
+5855,Attrited Customer,F,58,Less than $40K,Blue,9909.0,0,0.0,9909.0,2
+4178,Existing Customer,F,55,$40K - $60K,Blue,1965.0,1525,0.776,440.0,3
+9130,Existing Customer,F,47,Less than $40K,Blue,8837.0,2517,0.285,6320.0,2
+9216,Existing Customer,M,45,$120K +,Blue,8858.0,1359,0.153,7499.0,4
+3858,Existing Customer,F,47,Less than $40K,Blue,1738.0,0,0.0,1738.0,2
+6277,Existing Customer,F,47,Less than $40K,Blue,1776.0,691,0.389,1085.0,1
+2813,Existing Customer,M,39,$80K - $120K,Blue,18974.0,2517,0.133,16457.0,2
+3709,Existing Customer,F,51,Less than $40K,Blue,3183.0,1358,0.427,1825.0,3
+7549,Existing Customer,F,40,$40K - $60K,Blue,1956.0,958,0.49,998.0,1
+3265,Existing Customer,F,48,Less than $40K,Blue,4668.0,0,0.0,4668.0,3
+8702,Existing Customer,M,41,$80K - $120K,Gold,34516.0,2098,0.061,32418.0,2
+4243,Existing Customer,F,40,Less than $40K,Blue,1794.0,1019,0.568,775.0,2
+6973,Existing Customer,M,39,$80K - $120K,Blue,23034.0,1992,0.086,21042.0,2
+5485,Existing Customer,M,44,$40K - $60K,Blue,2477.0,2123,0.857,354.0,2
+7171,Existing Customer,F,49,Less than $40K,Blue,1644.0,0,0.0,1644.0,4
+2248,Existing Customer,M,37,Unknown,Blue,4397.0,2007,0.456,2390.0,1
+7668,Existing Customer,F,55,Less than $40K,Blue,1438.3,0,0.0,1438.3,1
+2984,Existing Customer,M,48,$80K - $120K,Blue,34516.0,657,0.019,33859.0,2
+7867,Existing Customer,F,55,Less than $40K,Blue,3282.0,2262,0.689,1020.0,3
+763,Existing Customer,M,49,$60K - $80K,Blue,3343.0,1581,0.473,1762.0,1
+3714,Existing Customer,M,44,$80K - $120K,Blue,2617.0,2517,0.962,100.0,1
+2694,Existing Customer,M,37,$60K - $80K,Blue,11419.0,2517,0.22,8902.0,2
+3516,Existing Customer,M,41,$40K - $60K,Blue,2334.0,1138,0.488,1196.0,2
+3733,Existing Customer,M,65,$40K - $60K,Blue,2507.0,1613,0.643,894.0,2
+3688,Existing Customer,M,40,$60K - $80K,Blue,5797.0,1779,0.307,4018.0,3
+6443,Existing Customer,M,42,$60K - $80K,Blue,11698.0,1060,0.091,10638.0,1
+2954,Existing Customer,M,52,$120K +,Blue,31945.0,1591,0.05,30354.0,3
+3264,Existing Customer,M,60,$60K - $80K,Blue,10698.0,1790,0.167,8908.0,3
+4235,Existing Customer,M,49,$60K - $80K,Blue,12994.0,904,0.07,12090.0,3
+9593,Existing Customer,F,52,Less than $40K,Blue,4119.0,2517,0.611,1602.0,1
+6969,Existing Customer,F,52,Less than $40K,Blue,2001.0,960,0.48,1041.0,4
+1735,Existing Customer,M,57,Less than $40K,Blue,3451.0,0,0.0,3451.0,4
+7532,Existing Customer,M,43,$60K - $80K,Blue,2283.0,1470,0.644,813.0,3
+130,Existing Customer,F,42,Less than $40K,Blue,2393.0,1985,0.83,408.0,1
+8243,Existing Customer,M,45,$40K - $60K,Blue,4718.0,1591,0.337,3127.0,1
+6442,Existing Customer,F,49,Unknown,Blue,4349.0,1400,0.322,2949.0,2
+9813,Existing Customer,M,50,$120K +,Blue,17374.0,2517,0.145,14857.0,1
+7994,Existing Customer,F,38,Less than $40K,Blue,1946.0,1430,0.735,516.0,3
+4227,Existing Customer,F,62,Less than $40K,Blue,2230.0,1716,0.77,514.0,1
+6668,Existing Customer,M,65,$40K - $60K,Blue,1438.3,682,0.474,756.3,0
+484,Existing Customer,M,41,$80K - $120K,Blue,21684.0,1748,0.081,19936.0,1
+8925,Existing Customer,M,46,$80K - $120K,Blue,17698.0,1769,0.1,15929.0,3
+5033,Existing Customer,M,41,Less than $40K,Blue,2515.0,1767,0.703,748.0,2
+7525,Existing Customer,F,46,Less than $40K,Blue,2374.0,1332,0.561,1042.0,2
+9059,Existing Customer,M,40,$60K - $80K,Blue,11476.0,2365,0.206,9111.0,3
+2490,Existing Customer,M,57,$60K - $80K,Blue,5100.0,1970,0.386,3130.0,4
+5864,Existing Customer,M,51,$80K - $120K,Blue,24028.0,0,0.0,24028.0,3
+7927,Existing Customer,F,42,Unknown,Blue,2798.0,1049,0.375,1749.0,3
+8282,Existing Customer,F,52,Less than $40K,Blue,3698.0,0,0.0,3698.0,3
+4850,Attrited Customer,F,49,Less than $40K,Blue,2520.0,1473,0.585,1047.0,3
+3601,Attrited Customer,M,37,$40K - $60K,Blue,3250.0,1721,0.53,1529.0,3
+1732,Existing Customer,M,38,$80K - $120K,Blue,9620.0,2033,0.211,7587.0,3
+3585,Existing Customer,F,50,Less than $40K,Blue,2837.0,1377,0.485,1460.0,3
+1620,Existing Customer,M,36,$60K - $80K,Blue,2224.0,1772,0.797,452.0,3
+2245,Existing Customer,F,47,Less than $40K,Blue,8322.0,0,0.0,8322.0,2
+8154,Existing Customer,M,55,$120K +,Blue,16258.0,865,0.053,15393.0,3
+9515,Existing Customer,M,46,$80K - $120K,Blue,13490.0,1567,0.116,11923.0,2
+7808,Existing Customer,M,40,$40K - $60K,Blue,1438.3,0,0.0,1438.3,1
+9299,Attrited Customer,M,40,$80K - $120K,Blue,4620.0,0,0.0,4620.0,3
+459,Existing Customer,M,60,$80K - $120K,Blue,23412.0,1078,0.046,22334.0,2
+7671,Existing Customer,F,57,Less than $40K,Silver,12675.0,2422,0.191,10253.0,1
+7521,Existing Customer,M,46,$60K - $80K,Blue,1621.0,787,0.486,834.0,2
+4551,Existing Customer,M,45,Less than $40K,Blue,2766.0,1985,0.718,781.0,1
+4770,Existing Customer,M,61,$60K - $80K,Blue,5852.0,1935,0.331,3917.0,3
+1104,Existing Customer,M,64,$40K - $60K,Blue,4234.0,1893,0.447,2341.0,2
+260,Existing Customer,M,36,$80K - $120K,Blue,34516.0,1652,0.048,32864.0,2
+2981,Existing Customer,M,46,$80K - $120K,Blue,20860.0,1496,0.072,19364.0,2
+274,Existing Customer,M,41,$80K - $120K,Blue,8029.0,1576,0.196,6453.0,3
+6802,Existing Customer,F,56,Less than $40K,Blue,3033.0,0,0.0,3033.0,4
+9330,Existing Customer,M,31,$80K - $120K,Blue,32791.0,1607,0.049,31184.0,3
+5819,Existing Customer,M,41,$60K - $80K,Blue,13116.0,1225,0.093,11891.0,2
+5204,Existing Customer,M,57,$60K - $80K,Blue,19090.0,0,0.0,19090.0,3
+5489,Existing Customer,F,42,Unknown,Blue,9396.0,1870,0.199,7526.0,3
+2165,Existing Customer,M,37,$60K - $80K,Blue,2576.0,1640,0.637,936.0,1
+7361,Existing Customer,F,48,Unknown,Blue,8446.0,908,0.108,7538.0,2
+2812,Existing Customer,M,47,$80K - $120K,Blue,5116.0,1468,0.287,3648.0,3
+6039,Existing Customer,M,40,$80K - $120K,Blue,1770.0,584,0.33,1186.0,3
+1589,Attrited Customer,M,58,$40K - $60K,Blue,3421.0,2517,0.736,904.0,1
+5590,Existing Customer,F,45,Unknown,Blue,2555.0,681,0.267,1874.0,3
+8575,Existing Customer,M,48,$80K - $120K,Blue,4963.0,2115,0.426,2848.0,3
+342,Existing Customer,M,52,$80K - $120K,Blue,2731.0,1692,0.62,1039.0,3
+2053,Existing Customer,M,39,$60K - $80K,Blue,9871.0,1061,0.107,8810.0,3
+6836,Existing Customer,F,59,Less than $40K,Blue,3054.0,2517,0.824,537.0,5
+6731,Attrited Customer,F,41,Less than $40K,Blue,1764.0,0,0.0,1764.0,3
+1038,Existing Customer,F,44,Less than $40K,Blue,4214.0,1249,0.296,2965.0,1
+1939,Existing Customer,M,42,$60K - $80K,Blue,8083.0,0,0.0,8083.0,3
+278,Existing Customer,M,47,$80K - $120K,Blue,17682.0,2481,0.14,15201.0,2
+9822,Attrited Customer,M,29,$40K - $60K,Blue,5988.0,660,0.11,5328.0,3
+6638,Existing Customer,M,40,$120K +,Blue,1438.3,0,0.0,1438.3,2
+4468,Existing Customer,M,44,$40K - $60K,Blue,2534.0,1706,0.673,828.0,2
+5691,Existing Customer,F,34,Less than $40K,Blue,1695.0,761,0.449,934.0,2
+2492,Existing Customer,F,35,Unknown,Blue,9293.0,0,0.0,9293.0,3
+1005,Attrited Customer,F,51,Less than $40K,Blue,6630.0,916,0.138,5714.0,2
+3281,Existing Customer,F,44,Less than $40K,Blue,1438.3,0,0.0,1438.3,2
+1024,Existing Customer,M,44,Less than $40K,Blue,2978.0,2134,0.717,844.0,2
+3407,Existing Customer,F,44,Unknown,Blue,5366.0,968,0.18,4398.0,1
+7234,Existing Customer,F,44,Unknown,Blue,4559.0,1680,0.369,2879.0,2
+7160,Attrited Customer,F,38,Less than $40K,Blue,1568.0,0,0.0,1568.0,3
+3922,Attrited Customer,F,46,$40K - $60K,Blue,1803.0,0,0.0,1803.0,2
+5143,Existing Customer,F,49,$40K - $60K,Blue,2506.0,1549,0.618,957.0,3
+1260,Existing Customer,F,26,$40K - $60K,Blue,3930.0,0,0.0,3930.0,3
+9430,Existing Customer,M,48,$60K - $80K,Blue,3862.0,0,0.0,3862.0,3
+6523,Existing Customer,F,43,Less than $40K,Blue,2397.0,2151,0.897,246.0,2
+2896,Existing Customer,M,65,Less than $40K,Blue,2644.0,1691,0.64,953.0,1
+6207,Existing Customer,F,37,Less than $40K,Blue,1438.3,687,0.478,751.3,2
+6189,Existing Customer,F,49,Less than $40K,Blue,1438.3,0,0.0,1438.3,1
+5961,Existing Customer,M,48,$80K - $120K,Gold,34516.0,1426,0.041,33090.0,3
+6425,Existing Customer,F,56,Less than $40K,Blue,8438.0,1825,0.216,6613.0,1
+8173,Existing Customer,F,47,Unknown,Blue,7114.0,1637,0.23,5477.0,3
+9937,Existing Customer,F,35,Less than $40K,Blue,4014.0,2266,0.565,1748.0,1
+597,Existing Customer,M,44,$60K - $80K,Blue,7788.0,0,0.0,7788.0,2
+8033,Existing Customer,M,47,$60K - $80K,Blue,2843.0,1752,0.616,1091.0,1
+2772,Existing Customer,M,37,$120K +,Blue,34516.0,0,0.0,34516.0,3
+1433,Existing Customer,M,35,$80K - $120K,Blue,3023.0,1435,0.475,1588.0,1
+4814,Existing Customer,F,42,Less than $40K,Blue,3714.0,2517,0.678,1197.0,2
+5585,Existing Customer,F,51,Unknown,Blue,2109.0,683,0.324,1426.0,3
+4270,Attrited Customer,F,44,Less than $40K,Blue,2184.0,0,0.0,2184.0,3
+9264,Existing Customer,F,46,Unknown,Blue,3515.0,0,0.0,3515.0,3
+5607,Existing Customer,F,58,Unknown,Blue,12362.0,0,0.0,12362.0,2
+8364,Existing Customer,F,47,Less than $40K,Blue,2761.0,1950,0.706,811.0,2
+3498,Existing Customer,F,42,Less than $40K,Blue,2757.0,1785,0.647,972.0,1
+1463,Existing Customer,M,48,$40K - $60K,Blue,7400.0,636,0.086,6764.0,2
+3085,Existing Customer,F,53,Unknown,Blue,5659.0,1393,0.246,4266.0,1
+1990,Existing Customer,M,65,Unknown,Blue,11332.0,633,0.056,10699.0,2
+676,Existing Customer,M,57,$40K - $60K,Blue,2544.0,1927,0.757,617.0,1
+9213,Existing Customer,M,32,$60K - $80K,Silver,33711.0,1437,0.043,32274.0,3
+7381,Existing Customer,M,48,$60K - $80K,Blue,3879.0,1214,0.313,2665.0,4
+3389,Existing Customer,F,50,Less than $40K,Blue,2563.0,1860,0.726,703.0,2
+6569,Attrited Customer,M,33,$80K - $120K,Blue,9642.0,1431,0.148,8211.0,3
+9368,Existing Customer,M,48,$80K - $120K,Blue,2754.0,2152,0.781,602.0,3
+3957,Existing Customer,M,42,$120K +,Blue,19156.0,1353,0.071,17803.0,1
+6965,Existing Customer,F,56,Less than $40K,Blue,2030.0,1262,0.622,768.0,4
+7311,Existing Customer,F,60,Less than $40K,Blue,1634.0,1155,0.707,479.0,3
+10056,Existing Customer,F,40,Less than $40K,Blue,3804.0,1917,0.504,1887.0,3
+5130,Existing Customer,F,41,Less than $40K,Blue,2134.0,1085,0.508,1049.0,1
+3433,Existing Customer,M,42,$80K - $120K,Blue,24126.0,948,0.039,23178.0,2
+3211,Existing Customer,M,44,$120K +,Blue,34516.0,2517,0.073,31999.0,3
+4738,Existing Customer,F,42,Less than $40K,Blue,2483.0,1297,0.522,1186.0,3
+3380,Existing Customer,F,39,Less than $40K,Blue,2490.0,1281,0.514,1209.0,3
+2908,Existing Customer,F,47,Less than $40K,Blue,7469.0,1899,0.254,5570.0,1
+6755,Existing Customer,F,53,Less than $40K,Blue,2036.0,1716,0.843,320.0,3
+7612,Existing Customer,F,36,Unknown,Blue,3926.0,1760,0.448,2166.0,3
+5435,Existing Customer,M,52,$120K +,Blue,5119.0,1972,0.385,3147.0,6
+7478,Attrited Customer,M,43,$80K - $120K,Blue,4617.0,1035,0.224,3582.0,4
+5692,Attrited Customer,F,41,Less than $40K,Blue,1438.3,0,0.0,1438.3,3
+2795,Existing Customer,F,29,Less than $40K,Blue,5076.0,1223,0.241,3853.0,2
+4033,Existing Customer,M,65,Less than $40K,Blue,3675.0,0,0.0,3675.0,3
+3505,Existing Customer,M,52,$40K - $60K,Blue,1470.0,0,0.0,1470.0,1
+4008,Existing Customer,F,58,Less than $40K,Blue,1438.3,818,0.569,620.3,3
+5003,Attrited Customer,M,49,$120K +,Blue,34516.0,2517,0.073,31999.0,3
+2617,Existing Customer,F,33,Less than $40K,Blue,1741.0,1328,0.763,413.0,2
+9576,Attrited Customer,M,54,$80K - $120K,Blue,11077.0,573,0.052,10504.0,3
+9013,Existing Customer,F,38,Less than $40K,Blue,2609.0,1259,0.483,1350.0,3
+5424,Existing Customer,F,49,$40K - $60K,Blue,1438.3,0,0.0,1438.3,1
+3063,Existing Customer,M,35,$60K - $80K,Blue,4587.0,1704,0.371,2883.0,2
+6785,Attrited Customer,F,36,Unknown,Blue,5956.0,2517,0.423,3439.0,2
+3312,Existing Customer,F,40,Less than $40K,Blue,1438.3,0,0.0,1438.3,1
+2205,Existing Customer,M,38,$40K - $60K,Blue,5535.0,1276,0.231,4259.0,2
+7838,Existing Customer,M,50,$80K - $120K,Blue,5384.0,1396,0.259,3988.0,3
+3187,Existing Customer,M,49,$120K +,Blue,21144.0,1190,0.056,19954.0,2
+6107,Existing Customer,F,48,Less than $40K,Blue,3378.0,0,0.0,3378.0,2
+4075,Existing Customer,F,43,Less than $40K,Blue,5544.0,1095,0.198,4449.0,1
+4778,Existing Customer,M,47,$80K - $120K,Blue,9437.0,2024,0.214,7413.0,1
+1633,Existing Customer,M,59,$40K - $60K,Blue,1648.0,997,0.605,651.0,3
+1183,Existing Customer,M,30,$80K - $120K,Blue,4237.0,1676,0.396,2561.0,2
+587,Existing Customer,M,52,$120K +,Blue,34516.0,2174,0.063,32342.0,1
+7857,Attrited Customer,M,46,$40K - $60K,Blue,2979.0,0,0.0,2979.0,2
+8856,Existing Customer,M,41,$60K - $80K,Silver,31497.0,2192,0.07,29305.0,3
+3368,Existing Customer,M,53,$80K - $120K,Blue,22855.0,0,0.0,22855.0,1
+391,Existing Customer,F,39,Less than $40K,Blue,3920.0,2008,0.512,1912.0,1
+10066,Existing Customer,M,53,$80K - $120K,Blue,17190.0,1736,0.101,15454.0,6
+3920,Existing Customer,F,53,Less than $40K,Blue,2266.0,0,0.0,2266.0,4
+783,Existing Customer,F,39,Less than $40K,Blue,2524.0,1395,0.553,1129.0,3
+3697,Existing Customer,F,46,Less than $40K,Blue,5157.0,1485,0.288,3672.0,2
+7507,Existing Customer,F,46,$40K - $60K,Blue,2168.0,1704,0.786,464.0,3
+4167,Existing Customer,F,50,Less than $40K,Blue,2623.0,1714,0.653,909.0,1
+7663,Attrited Customer,F,42,Less than $40K,Blue,3241.0,0,0.0,3241.0,3
+4370,Existing Customer,M,37,$80K - $120K,Blue,13441.0,0,0.0,13441.0,4
+8374,Existing Customer,F,42,Unknown,Blue,1821.0,935,0.513,886.0,1
+4534,Existing Customer,F,35,$40K - $60K,Blue,1953.0,1554,0.796,399.0,1
+5036,Attrited Customer,M,42,$60K - $80K,Blue,5096.0,0,0.0,5096.0,2
+2039,Existing Customer,M,54,$60K - $80K,Blue,2240.0,1580,0.705,660.0,3
+9709,Existing Customer,M,45,$60K - $80K,Silver,27494.0,879,0.032,26615.0,3
+9282,Existing Customer,F,45,$40K - $60K,Blue,3592.0,865,0.241,2727.0,3
+7626,Existing Customer,F,51,Less than $40K,Blue,2927.0,1499,0.512,1428.0,3
+2202,Existing Customer,M,45,$120K +,Blue,11962.0,1025,0.086,10937.0,2
+6709,Existing Customer,M,45,$120K +,Blue,3534.0,0,0.0,3534.0,2
+1956,Existing Customer,M,30,$40K - $60K,Blue,4726.0,1380,0.292,3346.0,1
+2078,Existing Customer,F,54,Less than $40K,Blue,2513.0,1126,0.448,1387.0,1
+9128,Existing Customer,M,30,$60K - $80K,Blue,15795.0,1742,0.11,14053.0,3
+1308,Existing Customer,M,59,$40K - $60K,Blue,6035.0,1392,0.231,4643.0,3
+3991,Existing Customer,M,41,$120K +,Blue,3491.0,2506,0.718,985.0,1
+7550,Attrited Customer,M,51,$80K - $120K,Blue,24462.0,946,0.039,23516.0,3
+135,Existing Customer,F,44,$40K - $60K,Blue,11749.0,788,0.067,10961.0,1
+6419,Attrited Customer,F,40,Less than $40K,Blue,3680.0,0,0.0,3680.0,2
